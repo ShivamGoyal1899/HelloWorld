@@ -1,2 +1,2 @@
 # HelloWorld
- HelloWorld in every possible progemming language.
+ HelloWorld in every possible programming language.
